@@ -1,0 +1,21 @@
+{
+    "name": "@eigenspace/argument-parser",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/eigen-space/argument-parser.git",
+    "author": "Nikita Agupov <nktrsk@gmail.com>",
+    "contributors": [
+        "Anton Kalashnikov <tohasan@yandex.ru>",
+        "Daniil Sitdikov <hello.boriskas@gmail.com>",
+        "Nikita Sergeev <sergeev.nickitos@yandex.ru>",
+        "Nikita Agupov <nktrsk@gmail.com>"
+    ],
+    "license": "MIT",
+    "keywords": [
+        "typescript",
+        "nodejs",
+        "common",
+        "utils",
+        "scripts"
+    ]
+}
