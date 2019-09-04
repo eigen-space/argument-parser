@@ -32,7 +32,7 @@ The main reasons why we decided to write our own parser were:
 # Example
 
 ```node
- node script.js --booleanValue --param valueWithKey valueWithoutKey --params[] listItemValue
+ node script.js --booleanValue --param=valueWithKey valueWithoutKey --params[]=listItemValue
  
  // Output: ArgumentStore
  _: [valueWithoutKey],
