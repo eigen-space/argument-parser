@@ -1,6 +1,6 @@
 {
     "name": "@eigenspace/argument-parser",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "main": "index.js",
     "repository": "https://github.com/eigen-space/argument-parser.git",
     "author": "Nikita Agupov <nktrsk@gmail.com>",
