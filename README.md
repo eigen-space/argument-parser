@@ -59,3 +59,14 @@ The main reasons why we decided to write our own parser were:
 **Important!**
 
 Travis creates the .npmrc file during ci startup. This file contains the access token to the npm repository.
+
+**Important!**
+
+Snapshot versions of packages are stored at https://artifacts.arrival.services/
+ Therefore, in order to use them, you need to add registry information to .yarnrc:
+ 
+ ```markdown
+    registry "https://artifacts.arrival.services/"
+ ```
+ 
+Master versions of the packages are stored in the npm registry
